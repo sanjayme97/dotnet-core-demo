@@ -7,7 +7,7 @@ namespace Console1
         static void Main(string[] args)
         {  int range=100;
              try{
-            Console.WriteLine("User1 branch - Enter The Max Range till the Prime Number Should print");
+            Console.WriteLine("User1 branch test1 - Enter The Max Range till the Prime Number Should print");
             range= int.Parse(Console.ReadLine());
            } catch(Exception){
           Console.WriteLine("Invalid Input");}
